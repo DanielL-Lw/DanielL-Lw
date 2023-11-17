@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to program and code, and looking out for the right steps that i should take first, into learning the code. (Thinking maybe there are obsolete skills that i should not pay too much attention to. :\)
 - 📫 How to reach me...
 
-- From Malaysia btw. Thank you for taking the time to read.
+- From Malaysia. Thank you for taking the time to read.
 
 <!---
 DanielL-Lw/DanielL-Lw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
